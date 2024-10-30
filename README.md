@@ -17,7 +17,7 @@ The dataset contains SMS messages labeled as "ham" (non-spam) or "spam." It is l
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.11
 - NumPy
 - Pandas
 - Scikit-learn
